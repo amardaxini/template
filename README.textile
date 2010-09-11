@@ -1,0 +1,2 @@
+Basic Template It contains
+Devise,Jquery,Layout
