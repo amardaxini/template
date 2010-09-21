@@ -13,25 +13,24 @@ div.login-bar-left{
     padding:10px 0;
 
 }
-div#login-bar{
-    float:right;
+div#login-bar-right{
+    text-align:right;
     padding-top:10px;
-;
+
 }
 
-div#login-bar ul{
+div#login-bar-right ul{
     list-style: none;
     padding: 0;
     margin: 0 0 10px 0;
 }
-div#login-bar li
-{
-    float: left;
-}
-div#login-bar li a
+div#login-bar-right li
 {
 
-    float: left;
+}
+div#login-bar-right li a
+{
+   float: right;
     display: block;
     text-decoration: none;
     text-align: center;
@@ -209,9 +208,9 @@ div.every-thing {
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    -webkit-box-shadow: 8px 0px 10px #000,-8px 0px 10px #000;
+/*    -webkit-box-shadow: 8px 0px 10px #000,-8px 0px 10px #000;
     -moz-box-shadow: 8px 0px 10px #000,-8px 0px 10px #000;
-    box-shadow: 8px 0px 10px #000,-8px 0px 10px #000;
+    box-shadow: 8px 0px 10px #000,-8px 0px 10px #000;*/
     margin: 0 auto -30px; /* the bottom margin is the negative value of the footer's height */
     background-color:white;
 
